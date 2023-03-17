@@ -7,11 +7,10 @@ Usage
 How to clone the code
 ---------------------
 
-Write me ...
-
+git clone http:// 
 
 
 Where to find the results
 -------------------------
 
-Write me ...
+
